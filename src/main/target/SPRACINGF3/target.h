@@ -23,7 +23,7 @@
 
 #define LED0                    PB3
 
-#define BEEPER                  PC15
+#define BEEPER                  PB9
 #define BEEPER_INVERTED
 
 #define USE_EXTI
